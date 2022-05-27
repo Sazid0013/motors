@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Patricia L Robbins",
+        "img": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9ydHJhaXR8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500",
+        "rating": 5,
+        "description": "I have an old club car golf cart that always had a slow start issue. I've changed the starter generator several times, but continue to have the same problem. This new Starter .Generator with the high amps solved the issue. Starts immediately."
+    },
+    {
+        "id": "2",
+        "name": "Edward A Perez",
+        "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydHJhaXR8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500",
+        "rating": 5,
+        "description": "Was exactly what we needed for our Club Car Golf Cart. Would highly recommend this site!"
+    },
+    {
+        "id": "3",
+        "name": "Lillian G Young",
+        "img": "https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cG9ydHJhaXR8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500",
+        "rating": 4.5,
+        "description": "Actually, this one deserved a 4.5 star to leave room for improvement. It comes in basically 4 components as follows: 1 metal fastener removal tool, a plastic bag with 4 plastic fastener removal tool, 10 fasteners with wire ties loosely flopping around in the cardboard delivery box, and 620 pieces of fasteners are in 3 interlocking compartmentalized plastic trays with a piece of paper on top identifying the fastener type, but not where each fastener is."
+    },
+    {
+        "id": "4",
+        "name": "Scott M Coggin",
+        "img": "https://images.unsplash.com/photo-1584418879404-85eb6c39c30c?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3R1ZGVudHxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500",
+        "rating": 5,
+        "description": "Quick replace of the one that did not wokk"
+    },
+    {
+        "id": "5",
+        "name": "Tyesha T Gomez",
+        "img": "https://images.unsplash.com/photo-1534493872551-856c2bb2279f?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTl8fHBlcnNvbnxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500",
+        "rating": 5,
+        "description": "I searched all the major automated stores in my area just to find replacement push pins for my Subaru WRX. When I could find the few that were available, the prices were through the roof and they were being sold at a quantity of either two or three pieces in a pack at a cost of three to five dollars. Ridiculous! I don't know why I didn't check Amazon.com before spending all that money. I finally wised up and found this unbelievable deal on Amazon.com and jumped on it. "
+    },
+    {
+        "id": "6",
+        "name": "​Hugo M Shaw",
+        "img": "https://images.unsplash.com/photo-1623605931891-d5b95ee98459?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE3fHxwZXJzb258ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500",
+        "rating": 4.5,
+        "description": "I was a little torn on this one between 4 and 5 starts given the price and amount of clips you get with the kit. The included metal tool is real nice and the clips seem good enough. It's just the case design I have issues with. You need to be extra careful each section is securely clipped before you pick the thing up from the handle to move it. In my case it was not and one section dumped out on the floor. So while it is a god kit and a good price, I have to take the one star for the case design. Still it is a good deal and I can recommend it to anyone needing a good assortment of clips and tools."
+    }
+]
